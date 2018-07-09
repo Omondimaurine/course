@@ -1,0 +1,42 @@
+[
+{
+  "pk": 1,
+  "model": "courses.subject",
+  "fields": {
+    "title": "English",
+    "slug": "english"
+  }
+},
+{
+  "pk": 2,
+  "model": "courses.subject",
+  "fields": {
+    "title": "Kiswahili",
+    "slug": "kiswahili"
+  }
+},
+{
+  "pk": 3,
+  "model": "courses.subject",
+  "fields": {
+    "title": "Chemistry",
+    "slug": "chemistry"
+  }
+},
+{
+  "pk": 4,
+  "model": "courses.subject",
+  "fields": {
+    "title": "Figure",
+    "slug": "figure"
+  }
+},
+{
+  "pk": 5,
+  "model": "courses.subject",
+  "fields": {
+    "title": "Computer",
+    "slug": "computer"
+  }
+}
+]
